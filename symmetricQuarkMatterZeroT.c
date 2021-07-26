@@ -3,7 +3,7 @@
 Equation of State solver for the DDQM model with zero temperature, considering symmetric quark matter.
 By Betânia Camille Backes, 2020
 Compile as:
-gcc symmetric-quark-matter-zerot.c -lm -Wall
+gcc symmetricQuarkMatterZeroT.c -lm -Wall
 
 */
 
